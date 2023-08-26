@@ -16,3 +16,20 @@ New Developments could be:
   2. Sharing of video/audio/text files in the chat
   3. Features such as audio/video call functionality
   4. Deploying the app on a server
+
+Screen Shots
+
+![image](https://github.com/AmolChi/Chat-App/assets/75240926/041dcc84-2cb5-4e88-a4ca-4d39667d1dca)
+
+![image](https://github.com/AmolChi/Chat-App/assets/75240926/844059e1-6d66-4e22-ae14-64355dc1dc7f)
+
+![image](https://github.com/AmolChi/Chat-App/assets/75240926/a84a8235-cd71-4b85-b949-b48ccc1db537)
+
+![image](https://github.com/AmolChi/Chat-App/assets/75240926/84e5afa9-6012-40fe-8c65-967202fa798e)
+
+![image](https://github.com/AmolChi/Chat-App/assets/75240926/d81823ed-7190-409a-9f88-e74f1823685d)
+
+![image](https://github.com/AmolChi/Chat-App/assets/75240926/31571ed5-f2d6-48ce-ae1d-c5e4c90443dd)
+
+
+
